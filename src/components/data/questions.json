@@ -1,0 +1,104 @@
+
+[
+  {
+      "title": "What does JSX stand for?",
+      "options": [
+        "JavaScript XML",
+        "XML JavaScript",
+        "JavaScript Extended",
+        "XML Extended"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "title": "Which of the following is a JavaScript framework commonly used with React for building user interfaces?",
+      "options": [
+        "Angular",
+        "Vue",
+        "Ember",
+        "None of the above"
+      ],
+      "correctOptionIndex": 4
+    },
+    {
+      "title": "In React, what is used to pass data from a parent component to a child component?",
+      "options": [
+        "state",
+        "props",
+        "context",
+        "redux"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "title": "What is React's virtual DOM used for?",
+      "options": [
+        "It improves performance by reducing direct manipulation of the DOM",
+        "It creates a physical representation of the DOM",
+        "It renders the DOM on the server",
+        "It is not used in React"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "title": "What lifecycle method is used for actions that should occur before the component is added to the DOM?",
+      "options": [
+        "componentWillMount",
+        "componentDidMount",
+        "componentWillUnmount",
+        "componentWillUpdate"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "title": "What is React Router used for?",
+      "options": [
+        "Styling React components",
+        "Managing state in React apps",
+        "Server-side rendering",
+        "Handling routing in single-page applications"
+      ],
+      "correctOptionIndex": 4
+    },
+    {
+      "title": "What is Redux used for in React applications?",
+      "options": [
+        "Handling routing",
+        "Managing component state",
+        "Server-side rendering",
+        "Styling components"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "title": "Which React hook is used for performing side effects in functional components?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useContext",
+        "useReducer"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "title": "What is the purpose of the `key` prop in React when rendering a list of elements?",
+      "options": [
+        "It is used to define a CSS keyframe animation",
+        "It is used to identify each item in the list uniquely",
+        "It is used to set the background color of list items",
+        "It is not used in React"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "title": "Which method is used to render dynamic lists of data in React?",
+      "options": [
+        "map()",
+        "forEach()",
+        "filter()",
+        "reduce()"
+      ],
+      "correctOptionIndex": 1
+    }
+  ]
+  
